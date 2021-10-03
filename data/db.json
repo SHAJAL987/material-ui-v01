@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Md. Ashiqul Islam Shajal",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "title": "Iftakher Ahmed",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "title": "Sazal Mahmud",
+      "details": "callback is the function containing the side-effect logic. callback is executed right after changes were being pushed to DOM.",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "title": "Fahmida",
+      "details": "Navigation drawers provide access to destinations in your app. Side sheets are surfaces containing supplementary content that are anchored to the left or right edge of the screen.",
+      "gender": "Fmale",
+      "id": 5
+    },
+    {
+      "title": "TransGender",
+      "details": "Navigation drawers provide access to destinations in your app. Side sheets are surfaces containing supplementary content that are anchored to the left or right edge of the screen.",
+      "gender": "Others",
+      "id": 6
+    }
+  ]
+}
